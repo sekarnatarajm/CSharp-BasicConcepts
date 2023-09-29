@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\ConsoleApp\\CSharp-Basics\\CSharp-Basics\\CSharp-Basics.csproj": {}
+    "C:\\Learning\\ConsoleApp\\CSharp\\CSharp-Basics\\CSharp-Basics.csproj": {}
   },
   "projects": {
-    "C:\\Learning\\ConsoleApp\\CSharp-Basics\\CSharp-Basics\\CSharp-Basics.csproj": {
+    "C:\\Learning\\ConsoleApp\\CSharp\\CSharp-Basics\\CSharp-Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\ConsoleApp\\CSharp-Basics\\CSharp-Basics\\CSharp-Basics.csproj",
+        "projectUniqueName": "C:\\Learning\\ConsoleApp\\CSharp\\CSharp-Basics\\CSharp-Basics.csproj",
         "projectName": "CSharp-Basics",
-        "projectPath": "C:\\Learning\\ConsoleApp\\CSharp-Basics\\CSharp-Basics\\CSharp-Basics.csproj",
+        "projectPath": "C:\\Learning\\ConsoleApp\\CSharp\\CSharp-Basics\\CSharp-Basics.csproj",
         "packagesPath": "C:\\Users\\sekar_nataraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\ConsoleApp\\CSharp-Basics\\CSharp-Basics\\obj\\",
+        "outputPath": "C:\\Learning\\ConsoleApp\\CSharp\\CSharp-Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sekar_nataraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
