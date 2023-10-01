@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp-Basics", "CSharp-Bas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrinciples", "SOLIDPrinciples\SOLIDPrinciples.csproj", "{7E2E53EF-54C9-406A-9252-EE362DD7B303}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemSolving", "ProblemSolving\ProblemSolving.csproj", "{6CCDC2EB-DA92-4BD3-90DA-467D43013D32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7E2E53EF-54C9-406A-9252-EE362DD7B303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E2E53EF-54C9-406A-9252-EE362DD7B303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E2E53EF-54C9-406A-9252-EE362DD7B303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCDC2EB-DA92-4BD3-90DA-467D43013D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCDC2EB-DA92-4BD3-90DA-467D43013D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCDC2EB-DA92-4BD3-90DA-467D43013D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCDC2EB-DA92-4BD3-90DA-467D43013D32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

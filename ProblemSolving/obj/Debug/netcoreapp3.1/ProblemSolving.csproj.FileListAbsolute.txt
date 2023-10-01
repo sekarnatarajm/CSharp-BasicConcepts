@@ -1,0 +1,14 @@
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.exe
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.deps.json
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.json
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.dev.json
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.dll
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.pdb
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.AssemblyReference.cache
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfoInputs.cache
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfo.cs
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb
+C:\Learning\ConsoleApp\CSharp\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.genruntimeconfig.cache
