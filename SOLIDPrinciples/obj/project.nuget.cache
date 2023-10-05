@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d99AaOFikoHkwz7naaYwoVkAdJOgpjX+GfUJrMopFa/XN4HXgo8VtmmBYwQ15BwHIcnP2w2JKz7/omdRheZfoA==",
+  "dgSpecHash": "8bR7I8w8OmauopFCBwgJyh1Hw5IqIbVjRfl7LBIax8GUlvIa9Xb7XJqF2z3GfXWH2kckShB2cXBeTyVKlxoxcA==",
   "success": true,
-  "projectFilePath": "C:\\Learning\\ConsoleApp\\CSharp\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Learning\\Console App\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL5054\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\AL5054\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\AL5054\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\AL5054\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

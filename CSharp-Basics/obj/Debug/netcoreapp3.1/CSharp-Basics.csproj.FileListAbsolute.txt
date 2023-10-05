@@ -12,3 +12,17 @@ C:\Learning\ConsoleApp\CSharp\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basic
 C:\Learning\ConsoleApp\CSharp\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.dll
 C:\Learning\ConsoleApp\CSharp\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.pdb
 C:\Learning\ConsoleApp\CSharp\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.genruntimeconfig.cache
+D:\Learning\Console App\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.exe
+D:\Learning\Console App\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.deps.json
+D:\Learning\Console App\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.runtimeconfig.json
+D:\Learning\Console App\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.runtimeconfig.dev.json
+D:\Learning\Console App\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.dll
+D:\Learning\Console App\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.pdb
+D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.csproj.AssemblyReference.cache
+D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.AssemblyInfoInputs.cache
+D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.AssemblyInfo.cs
+D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.csproj.CoreCompileInputs.cache
+D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.dll
+D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.pdb
+D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.genruntimeconfig.cache
