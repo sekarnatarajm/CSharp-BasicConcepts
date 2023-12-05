@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gs+NnDIdX/lljFIxW3W3Dlzoz3rFueRaEApxGwtJ/syrOuBCt9wteXJbAbiZtD2Lyj+dH0UmsmWfbmE3fNH6jg==",
+  "dgSpecHash": "gBuIkPddcSBkkbvD5dqKVNDgkelPgTtHUS5m1w9E093RTVaFhg2qTYOowrtE1aI9KYwz8XYyhOIRPxs/KeUxJQ==",
   "success": true,
-  "projectFilePath": "C:\\Learning\\ConsoleApp\\CSharp\\CSharp-Basics\\CSharp-Basics.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Learning\\Console App\\CSharp-Basics\\CSharp-Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL5054\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\AL5054\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\AL5054\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\AL5054\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
