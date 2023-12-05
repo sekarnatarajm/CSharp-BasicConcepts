@@ -27,74 +27,60 @@ namespace CSharp_Basics
     }
     public static class ExtensionMethods
     {
-        public static T DeepCopy<T>(this T self)
+        public static T CopyObject<T>(this T self)
         {
             var serialized = JsonConvert.SerializeObject(self);
             return JsonConvert.DeserializeObject<T>(serialized);
         }
 
-        public static T SkipSecretDataOne<T>(this T self)
+        public static T SkipSecretDataOne<T>(this T inputData)
         {
             var name = typeof(T).Name;
-            var converter = TypeDescriptor.GetConverter(typeof(T));
-            
-            if(name == "ProxyApi")
+
+            var proxyApiName = typeof(ProxyApi).Name;
+            var commandHandlerName = typeof(CommandHandler).Name;
+
+            if (name == proxyApiName)
             {
-                var dspp = self.DeepCopy<T>() as ProxyApi;
+                var dspp = inputData.CopyObject<T>() as ProxyApi;
                 dspp.BasicAuth.Password = "";
                 var dd = (T)Convert.ChangeType(dspp, typeof(T));
                 return dd;
             }
-            else if (name == "CommandHandler")
+            else if (name == commandHandlerName)
             {
-                var dspp = self.DeepCopy<T>() as CommandHandler;
+                var dspp = inputData.CopyObject<T>() as CommandHandler;
                 dspp.ProxyApi.BasicAuth.Password = "";
                 var dd = (T)Convert.ChangeType(dspp, typeof(T));
                 return dd;
             }
-            return (T)Convert.ChangeType(self, typeof(T));
+            return (T)Convert.ChangeType(inputData, typeof(T));
+        }
+
+        public static T SkipSecretDataOnePatternMatching<T>(this T inputData)
+        {
+            Predicate<object> isObjectMatching = o => o.GetType().Name == inputData.GetType().Name;
+
+            switch (inputData)
+            {
+                case ProxyApi proxyApi when isObjectMatching(proxyApi):
+                    var proxyApiData = inputData.CopyObject<T>() as ProxyApi;
+                    proxyApiData.BasicAuth.Password = "";
+                    var proxyApiDataResult = (T)Convert.ChangeType(proxyApiData, typeof(T));
+                    return proxyApiDataResult;
+                case CommandHandler proxyApi when isObjectMatching(proxyApi):
+                    var cmdHandler = inputData.CopyObject<T>() as CommandHandler;
+                    cmdHandler.ProxyApi.BasicAuth.Password = "";
+                    var cmdHandlerResult = (T)Convert.ChangeType(cmdHandler, typeof(T));
+                    return cmdHandlerResult;
+                default:
+                    return (T)Convert.ChangeType(inputData, typeof(T));
+            }          
         }
     }
 
     public class SkipSecretData
     {
-        //public void SkipData()
-        //{
-        //    ProxyApi proxyApi = new ProxyApi();
-        //    proxyApi.ApiName = "TestApi";
-        //    proxyApi.ApiType = "Order Status";
-        //    proxyApi.BasicAuth = new BasicAuth()
-        //    {
-        //        Username = "test123",
-        //        Password = "test@123"
-        //    };
-
-        //    var logData = proxyApi.SkipSecretDataOne<ProxyApi>();
-
-        //    //var logData = proxyApi.DeepCopy<ProxyApi>();
-        //    //logData.SkipSecretDataOne<ProxyApi>();
-
-        //    PushProxy(proxyApi);
-
-
-        //    Console.WriteLine();
-        //    Console.WriteLine("Log Object Data : {0}", JsonConvert.SerializeObject(LogData(logData)));
-        //}
-
-        //public void PushProxy(ProxyApi proxyApi)
-        //{
-        //    Console.WriteLine("Proxy Object Data : {0}", JsonConvert.SerializeObject(proxyApi));
-        //}
-
-
-
-        //public ProxyApi LogData(ProxyApi proxyApi)
-        //{
-        //    var logData = proxyApi.DeepCopy<ProxyApi>();
-        //    logData.BasicAuth.Password = "";
-        //    return logData;
-        //}
-
         public void SkipData()
         {
             try
