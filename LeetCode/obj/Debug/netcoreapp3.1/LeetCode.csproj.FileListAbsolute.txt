@@ -1,0 +1,14 @@
+C:\Learning\ConsoleApp\CSharp\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.exe
+C:\Learning\ConsoleApp\CSharp\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+C:\Learning\ConsoleApp\CSharp\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+C:\Learning\ConsoleApp\CSharp\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+C:\Learning\ConsoleApp\CSharp\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.dll
+C:\Learning\ConsoleApp\CSharp\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.AssemblyReference.cache
+C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
+C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
