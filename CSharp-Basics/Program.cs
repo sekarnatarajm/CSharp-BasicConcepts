@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProblemSolving;
+using System;
 
 namespace CSharp_Basics
 {
@@ -6,8 +7,12 @@ namespace CSharp_Basics
     {
         static void Main(string[] args)
         {
-            AsyncAwait asyncAwait = new AsyncAwait();
-            asyncAwait.MainMethod();
+            SkipSecretData skipSecretData = new SkipSecretData();
+            skipSecretData.SkipData();
+
+            //StringFunction.IsEqual();
+            //AsyncAwait asyncAwait = new AsyncAwait();
+            //asyncAwait.MainMethod();
             Console.ReadKey();
         }
     }
