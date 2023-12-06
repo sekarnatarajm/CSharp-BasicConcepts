@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Learning\\ConsoleApp\\CSharp\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
-      "projectName": "SOLIDPrinciples",
-      "projectPath": "C:\\Learning\\ConsoleApp\\CSharp\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
+      "projectUniqueName": "C:\\Learning\\ConsoleApp\\CSharp\\LeetCode\\LeetCode.csproj",
+      "projectName": "LeetCode",
+      "projectPath": "C:\\Learning\\ConsoleApp\\CSharp\\LeetCode\\LeetCode.csproj",
       "packagesPath": "C:\\Users\\sekar_nataraj\\.nuget\\packages\\",
-      "outputPath": "C:\\Learning\\ConsoleApp\\CSharp\\SOLIDPrinciples\\obj\\",
+      "outputPath": "C:\\Learning\\ConsoleApp\\CSharp\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sekar_nataraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
