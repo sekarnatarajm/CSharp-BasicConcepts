@@ -26,3 +26,5 @@ D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.cspr
 D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.dll
 D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.pdb
 D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.genruntimeconfig.cache
+C:\Learning\ConsoleApp\CSharp\CSharp-Basics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Learning\ConsoleApp\CSharp\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.csproj.CopyComplete
