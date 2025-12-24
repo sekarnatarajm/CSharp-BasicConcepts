@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ar+PGBVT5lhfsCJvO8EOWsMYcTHrZCNJljbDe0s+ITH5fK/BTD7BxrvgEyOYVjOZW9kEV9+dsg3zsUt8eBC5UA==",
+  "dgSpecHash": "xaw4i4mZO3Y=",
   "success": true,
-  "projectFilePath": "C:\\Learning\\ConsoleApp\\CSharp\\CSharp-Basics\\CSharp-Basics.csproj",
+  "projectFilePath": "C:\\Dell Documents\\Sekar\\Interview\\Console Application\\CSharp-BasicConcepts\\CSharp-Basics\\CSharp-Basics.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sekar_nataraj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Sekar_Nataraj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
