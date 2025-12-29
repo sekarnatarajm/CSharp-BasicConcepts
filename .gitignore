@@ -53,3 +53,4 @@ ScaffoldingReadMe.txt
 # JetBrains Rider
 .idea/
 *.sln.iml
+/.vs/CSharp-Basics/v17/.suo
