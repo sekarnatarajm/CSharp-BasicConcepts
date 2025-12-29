@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemSolving", "ProblemSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{034BBDE5-8941-45D6-8A2C-4768AAAAC25B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{CAD32F38-9325-4903-9A1E-04B3DB6D35C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{034BBDE5-8941-45D6-8A2C-4768AAAAC25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{034BBDE5-8941-45D6-8A2C-4768AAAAC25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{034BBDE5-8941-45D6-8A2C-4768AAAAC25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD32F38-9325-4903-9A1E-04B3DB6D35C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD32F38-9325-4903-9A1E-04B3DB6D35C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD32F38-9325-4903-9A1E-04B3DB6D35C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD32F38-9325-4903-9A1E-04B3DB6D35C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
