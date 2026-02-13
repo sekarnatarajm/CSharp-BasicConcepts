@@ -13,7 +13,7 @@ namespace Polymorphism
             string? s1 = o as string;   // "hello"
 
 
-            object o = "hello";
+            //object o = "hello";
             bool result = o is string;        // true
             bool result2 = o is int;          // false
 

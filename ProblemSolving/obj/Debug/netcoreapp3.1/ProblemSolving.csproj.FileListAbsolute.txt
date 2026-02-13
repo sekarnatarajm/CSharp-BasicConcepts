@@ -26,3 +26,17 @@ D:\Learning\Console App\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.cs
 D:\Learning\Console App\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
 D:\Learning\Console App\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb
 D:\Learning\Console App\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.genruntimeconfig.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.exe
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.deps.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.dev.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.dll
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.pdb
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfoInputs.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfo.cs
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.sourcelink.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb
+C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.genruntimeconfig.cache

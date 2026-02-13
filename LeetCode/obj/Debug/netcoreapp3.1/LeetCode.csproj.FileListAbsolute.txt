@@ -12,3 +12,17 @@ C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.C
 C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
 C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
 C:\Learning\ConsoleApp\CSharp\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.exe
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.dll
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.sourcelink.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache

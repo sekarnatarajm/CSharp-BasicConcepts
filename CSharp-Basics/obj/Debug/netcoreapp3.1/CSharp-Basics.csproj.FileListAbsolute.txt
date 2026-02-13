@@ -28,3 +28,20 @@ D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.pdb
 D:\Learning\Console App\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.genruntimeconfig.cache
 C:\Learning\ConsoleApp\CSharp\CSharp-Basics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Learning\ConsoleApp\CSharp\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.csproj.CopyComplete
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.exe
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.deps.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.runtimeconfig.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.runtimeconfig.dev.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.dll
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\bin\Debug\netcoreapp3.1\CSharp-Basics.pdb
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.csproj.AssemblyReference.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.AssemblyInfoInputs.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.AssemblyInfo.cs
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.csproj.CoreCompileInputs.cache
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.sourcelink.json
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-B.DD1B43B5.Up2Date
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.dll
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.pdb
+C:\Dell Documents\Learning\CSharp-BasicConcepts\CSharp-Basics\obj\Debug\netcoreapp3.1\CSharp-Basics.genruntimeconfig.cache

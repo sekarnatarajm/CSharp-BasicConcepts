@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = SOLIDPrinciples
-build_property.ProjectDir = C:\Dell Documents\Sekar\Interview\Console Application\CSharp-BasicConcepts\SOLIDPrinciples\
+build_property.ProjectDir = C:\Dell Documents\Learning\CSharp-BasicConcepts\SOLIDPrinciples\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

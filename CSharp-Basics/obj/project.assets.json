@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dell Documents\\Sekar\\Interview\\Console Application\\CSharp-BasicConcepts\\CSharp-Basics\\CSharp-Basics.csproj",
+      "projectUniqueName": "C:\\Dell Documents\\Learning\\CSharp-BasicConcepts\\CSharp-Basics\\CSharp-Basics.csproj",
       "projectName": "CSharp-Basics",
-      "projectPath": "C:\\Dell Documents\\Sekar\\Interview\\Console Application\\CSharp-BasicConcepts\\CSharp-Basics\\CSharp-Basics.csproj",
+      "projectPath": "C:\\Dell Documents\\Learning\\CSharp-BasicConcepts\\CSharp-Basics\\CSharp-Basics.csproj",
       "packagesPath": "C:\\Users\\Sekar_Nataraj\\.nuget\\packages\\",
-      "outputPath": "C:\\Dell Documents\\Sekar\\Interview\\Console Application\\CSharp-BasicConcepts\\CSharp-Basics\\obj\\",
+      "outputPath": "C:\\Dell Documents\\Learning\\CSharp-BasicConcepts\\CSharp-Basics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
