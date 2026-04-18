@@ -1,8 +1,5 @@
 is_global = true
 build_property.RootNamespace = LeetCode
-build_property.ProjectDir = C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\
+build_property.ProjectDir = C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 

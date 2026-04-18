@@ -8,36 +8,28 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Sekar_Nataraj\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SekarNataraj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dell Documents\\Learning\\CSharp-BasicConcepts\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "C:\\Sekar\\Application\\CSharp-BasicConcepts\\LeetCode\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "C:\\Dell Documents\\Learning\\CSharp-BasicConcepts\\LeetCode\\LeetCode.csproj",
-      "packagesPath": "C:\\Users\\Sekar_Nataraj\\.nuget\\packages\\",
-      "outputPath": "C:\\Dell Documents\\Learning\\CSharp-BasicConcepts\\LeetCode\\obj\\",
+      "projectPath": "C:\\Sekar\\Application\\CSharp-BasicConcepts\\LeetCode\\LeetCode.csproj",
+      "packagesPath": "C:\\Users\\SekarNataraj\\.nuget\\packages\\",
+      "outputPath": "C:\\Sekar\\Application\\CSharp-BasicConcepts\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Sekar_Nataraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\SekarNataraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Dell Documents\\Sekar\\LB Project\\MathsCalculator\\MathsCalculator\\bin\\Release": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://artifacts.dell.com/artifactory/api/nuget/ans-388242-nuget-prd-local": {},
-        "https://artifacts.dell.com/artifactory/api/nuget/pccomn-1000300-nuget-prd-local/": {},
-        "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -54,8 +46,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "netcoreapp3.1": {
@@ -76,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419\\RuntimeIdentifierGraph.json"
       }
     }
   }

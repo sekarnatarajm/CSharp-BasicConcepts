@@ -1,8 +1,5 @@
 is_global = true
 build_property.RootNamespace = ProblemSolving
-build_property.ProjectDir = C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\
+build_property.ProjectDir = C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 
