@@ -40,3 +40,17 @@ C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcore
 C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
 C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb
 C:\Dell Documents\Learning\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.genruntimeconfig.cache
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.exe
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.deps.json
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.json
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.dev.json
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.dll
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.pdb
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfoInputs.cache
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfo.cs
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.sourcelink.json
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb
+C:\Sekar\Application\CSharp-BasicConcepts\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.genruntimeconfig.cache

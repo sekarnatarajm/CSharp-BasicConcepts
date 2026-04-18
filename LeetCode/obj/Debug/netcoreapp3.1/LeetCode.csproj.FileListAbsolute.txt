@@ -26,3 +26,17 @@ C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1
 C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
 C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
 C:\Dell Documents\Learning\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.exe
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.dll
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.sourcelink.json
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Sekar\Application\CSharp-BasicConcepts\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache

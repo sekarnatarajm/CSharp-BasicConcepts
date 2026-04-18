@@ -5,8 +5,10 @@ namespace CSharp_Basics
 {
     internal class Program
     {
+        public 
         static void Main(string[] args)
         {
+
             SkipSecretData skipSecretData = new SkipSecretData();
             skipSecretData.SkipData();
 
