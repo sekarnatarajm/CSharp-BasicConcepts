@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleTon", "SingleTon\SingleTon.csproj", "{D29014FE-2BE6-4930-8A20-81918462E2A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{9622EC4A-6E60-418B-8AE3-DC06950CEB94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D29014FE-2BE6-4930-8A20-81918462E2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D29014FE-2BE6-4930-8A20-81918462E2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D29014FE-2BE6-4930-8A20-81918462E2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9622EC4A-6E60-418B-8AE3-DC06950CEB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9622EC4A-6E60-418B-8AE3-DC06950CEB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9622EC4A-6E60-418B-8AE3-DC06950CEB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9622EC4A-6E60-418B-8AE3-DC06950CEB94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
