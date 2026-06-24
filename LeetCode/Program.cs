@@ -18,6 +18,61 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
+            missingNum();
+            TwoRepeated1();
+            var rrr = GetDuplicateNumber();
+            FindRank();
+            FixedWindow_2();
+            FixedWindow();
+            LengthOfLongestSubstring();
+            ChatCount();
+            Factorial(5);
+            ChatCount();
+            RevStr45();
+            Palindrome();
+            ReStr();
+            ReverseString_method222();
+            ReverseString_method2();
+
+            string ab = "Hi";
+            ab += "Hello";
+            Console.WriteLine(ab);
+
+            int xx = 3;
+            Console.WriteLine(xx++ + ++xx);
+
+
+            for (int i = 1; i <= 3; i++) Console.Write(i);
+
+            int a = 5;
+            Console.WriteLine(" ++5 = {0}", a++);
+            Console.WriteLine(" ++5 = {0}", a++);
+
+            int b = 2;
+            Console.WriteLine(" ++2 = {0}", ++b);
+            Console.WriteLine(" ++2 = {0}", ++b);
+
+
+            int x = 3;
+            Console.WriteLine(x * x++);
+
+
+
+            string ss = "Hello";
+            Console.WriteLine(ss.Length);
+
+
+
+
+
+
+            ReverseString.Reverse();
+            ReverseString.ReverseStringData("Welcome to Csharp corner");
+            ReverseString.ReverseCharecter("Welcome to Csharp corner");
+
+
+            FindClosestValue();
+            CountCharecter();
 
             string s = "01110011";
 
@@ -464,5 +519,470 @@ namespace LeetCode
             }
             return max;
         }
+
+        public static void CountCharecter()
+        {
+            string input = "Hello World";
+            Dictionary<char, int> charCounts = new Dictionary<char, int>();
+
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (charCounts.ContainsKey(input[i]))
+                {
+                    charCounts[input[i]] += 1;
+                }
+                else
+                {
+                    charCounts.Add(input[i], 1);
+                }
+            }
+
+            foreach (var charData in charCounts)
+            {
+                Console.WriteLine("Charecter : {0}, TotalCount : {1}", charData.Key, charData.Value);
+            }
+        }
+
+        public static int FindClosestValue_3()
+        {
+            //int[] nums = { -4, -2, 1, 4, 8 };
+            int[] nums = { 2, -1, 1 };
+            //int[] nums = { -100000, -100000 };
+            //int[] nums = { -10, -12, -54, -12, -544, -10000 };
+            int closest = 0;
+
+            for (int i = 0; i < nums.Length - 1; i++)
+            {
+                if (Math.Abs(nums[i]) <= Math.Abs(nums[i + 1]))
+                {
+                    if (closest == 0)
+                    {
+                        closest = Math.Abs(nums[i]).Equals(Math.Abs(nums[i + 1])) ? Math.Max(nums[i], nums[i + 1]) : nums[i];
+                    }
+                    else
+                    {
+                        int m = Math.Abs(nums[i]).Equals(Math.Abs(nums[i + 1])) ? Math.Max(nums[i], nums[i + 1]) : nums[i];
+                        closest = m < closest ? m : closest;
+                    }
+                }
+            }
+            return closest;
+        }
+
+        public static int FindClosestValue()
+        {
+            //int[] nums = { -4, -2, 1, 4, 8 };
+            int[] nums = { 2, -1, 1 };
+            //int[] nums = { -100000, -100000 };
+            //int[] nums = { -10, -12, -54, -12, -544, -10000 };
+
+
+            int closest = int.MaxValue;
+            int val = int.MaxValue;
+
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (Math.Abs(nums[i] - 0) < closest)
+                {
+                    closest = Math.Abs(nums[i] - 0);
+                    val = nums[i];
+                }
+                else if (Math.Abs(nums[i]) == closest)
+                {
+                    val = Math.Max(val, nums[i]);
+                }
+            }
+            return closest;
+        }
+
+        public static int FindClosestValue_566()
+        {
+            //int[] nums = { -4, -2, 1, 4, 8 };
+            //int[] nums = { 2, -1, 1, -1 };
+            //int[] nums = { -100000, -100000 };
+            int[] nums = { -10, -12, -54, -12, -544, -10000 };
+            int closest = nums[0];
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (Math.Abs(nums[i]) < Math.Abs(closest) || Math.Abs(nums[i]) == Math.Abs(closest) && closest < nums[i])
+                {
+                    closest = nums[i];
+                }
+            }
+            return closest;
+        }
+
+        public static void ReverseStrings()
+        {
+            string s = "hello";
+            string result = "";
+            for (int i = s.Length - 1; i >= 0; i--)
+            {
+                result += s[i];
+            }
+            Console.WriteLine(result);
+        }
+        public static void ReverseString_method2()
+        {
+            string s = "Welcome to Csharp corner";
+            int start = s.Length - 1;
+            int end = s.Length - 1;
+            StringBuilder sb = new StringBuilder();
+
+            for (int i = s.Length - 1; i >= 0; i--)
+            {
+                if (s[i] == ' ')
+                {
+                    start = i + 1;
+                    for (int j = start; j < end; j++)
+                    {
+                        sb.Append(s[j]);
+                    }
+                    sb.Append(" ");
+                    end = start;
+                }
+                Console.WriteLine(s[i]);
+            }
+            for (int i = 0; i < end; i++)
+            {
+                sb.Append(s[i]);
+            }
+            var dd = sb.ToString();
+        }
+        public static void ReverseString_method222()
+        {
+            try
+            {
+                Console.WriteLine("cheers : {0}", 1 / Convert.ToInt32(0));
+            }
+            catch (ArithmeticException dd)
+            {
+
+                throw;
+            }
+        }
+
+        public static string ReStr()
+        {
+            string word = "hello";
+            string result = "";
+
+            for (int i = word.Length; i > 0; i--)
+            {
+                result += word[i - 1];
+            }
+            return result;
+        }
+        //input: 1221, output: Palindrome
+        public static string Palindrome()
+        {
+            string word = "kalyak";
+            string result = "";
+
+            int k = word.Length / 2;
+
+            for (int i = 0, j = word.Length; i < k; i++, j--)
+            {
+                if (word[i] != word[j - 1])
+                {
+                    result = "Not Palindrome";
+                    return result;
+                }
+                result = "Palindrome";
+            }
+            return result;
+        }
+
+        //input: Welcome to Csharp corner, output: corner Csharp to Welcome
+        public static string RevStr45()
+        {
+            string word = "Welcome to Csharp corner";
+            StringBuilder result = new StringBuilder();
+
+            int start = word.Length;
+            int end = word.Length;
+
+
+            for (int i = word.Length; i > 0; i--)
+            {
+                if (word[i - 1] == ' ')
+                {
+                    start = i;
+                    for (int j = start; j <= end; j++)
+                    {
+                        result.Append(word[j - 1]);
+                    }
+                    end = start;
+                }
+            }
+            for (int i = 0; i < end; i++)
+            {
+                result.Append(word[i]);
+            }
+            return result.ToString();
+        }
+
+        //input: hello world;
+        public static void ChatCount()
+        {
+            string word = "hello world";
+            Dictionary<char, int> chatCount = new Dictionary<char, int>();
+            for (int i = 0; i < word.Length; i++)
+            {
+                if (chatCount.ContainsKey(word[i]))
+                {
+                    chatCount[word[i]] += 1;
+                }
+                else
+                {
+                    chatCount[word[i]] = 1;
+                }
+            }
+        }
+
+        public static int Factorial(int n)
+        {
+            if (n == 0)
+            {
+                return 1;
+            }
+            var result = n * Factorial(n - 1);
+            return result;
+        }
+
+        public static int LengthOfLongestSubstring()
+        {
+            string s = "abcabcbb";
+            var set = new HashSet<char>();
+            int left = 0, maxLength = 0;
+
+            for (int right = 0; right < s.Length; right++)
+            {
+                while (set.Contains(s[right]))
+                {
+                    set.Remove(s[left]);
+                    left++;
+                }
+
+                set.Add(s[right]);
+                maxLength = Math.Max(maxLength, right - left + 1);
+            }
+
+            return maxLength;
+        }
+        public static int FixedWindow()
+        {
+            int[] arr = new int[] { 2, 1, 5, 1, 3, 2 };
+            int k = 3;
+            int windowSum = 0;
+            int maxSum = 0;
+
+            for (int i = 0; i < k; i++)
+            {
+                windowSum += arr[i];
+            }
+            maxSum = windowSum;
+
+            for (int i = k; i < arr.Length; i++)
+            {
+                windowSum += arr[i] - arr[i - k];
+                maxSum = Math.Max(maxSum, windowSum);
+            }
+            return maxSum;
+        }
+
+        public static void FixedWindow_1()
+        {
+            int[] arr = new int[] { 2, 1, 5, 1, 3, 2 };
+            int k = 3;
+            int windowSum = 0;
+            int maxSum = 0;
+
+            for (int i = 0; i < k; i++)
+            {
+                windowSum += arr[i];
+            }
+            maxSum = windowSum;
+
+            for (int i = k; i < arr.Length; i++)
+            {
+                windowSum += arr[i] - arr[i - k];
+            }
+        }
+
+        public static void FixedWindow_2()
+        {
+            string s = "pwwkew";
+            int maxLenght = 0;
+            int left = 0;
+            List<char> charList = new List<char>();
+
+            for (int right = 0; right < s.Length; right++)
+            {
+                while (charList.Contains(s[right]))
+                {
+                    charList.Remove(s[left]);
+                    left++;
+                }
+                //if (charList.Contains(s[right]))
+                //{
+                //    charList.Remove(s[left]);
+                //    left++;
+                //}
+                charList.Add(s[right]);
+
+                maxLenght = Math.Max(maxLenght, right - left + 1);
+            }
+
+            var dd = maxLenght;
+        }
+
+        public static void FindRank()
+        {
+            int[] arr = new int[] { 93, 52, 11, 35, 6, 14, 11, 14, 35 };
+            int k = 3;
+
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (arr[i] > arr[j])
+                    {
+                        int temp = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = temp;
+                    }
+                }
+            }
+            var result = RemoveDuplicates(arr)[k - 1];
+        }
+
+        public static int[] RemoveDuplicates(int[] arr)
+        {
+            //[1, 1, 1, 2, 2, 3,4]
+            int previous = 0;
+            List<int> ints = new List<int>();
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (i == 0)
+                {
+                    previous = arr[i];
+                    ints.Add(arr[i]);
+                }
+                if (arr[i] != previous)
+                {
+                    previous = arr[i];
+                    ints.Add(arr[i]);
+                }
+            }
+            var ss = ints.ToArray();
+            return ss;
+        }
+
+        public static int GetDuplicateNumber()
+        {
+            int[] arr = new int[] { 3, 4, 5, 3, 6, 4, 7 };
+            int k = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                k = arr[i];
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (k == arr[j])
+                    {
+                        return k;
+                    }
+                }
+            }
+            return 0;
+        }
+
+        public static int[] TwoRepeated()
+        {
+            int[] arr = new int[6] { 1, 2, 1, 3, 4, 3 };
+            // code here
+            int first = 0;
+            int second = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (arr[i] == arr[j])
+                    {
+                        if (first == 0)
+                        {
+                            first = arr[i];
+                            continue;
+                        }
+
+                        if (second == 0)
+                        {
+                            second = arr[i];
+                            break;
+                        }
+                    }
+                }
+            }
+            int[] res = new int[2];
+            res[0] = first;
+            res[1] = second;
+            return res;
+        }
+
+        public static int[] TwoRepeated1()
+        {
+            int[] arr = new int[12] { 9, 1, 5, 6, 4, 3, 10, 8, 4, 2, 2, 7 };
+            //code here
+            int first = 0;
+            int second = 0;
+            List<int> dict = new List<int>();
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (dict.Contains(arr[i]))
+                {
+                    if (first == 0)
+                    {
+                        first = i;
+                        dict.Add(arr[i]);
+                    }
+                    else
+                    {
+                        second = i;
+                        dict.Add(arr[i]);
+                        break;
+                    }
+                }
+                else
+                {
+                    dict.Add(arr[i]);
+                }
+            }
+            if (first <= second)
+            {
+                return new int[2] { dict[first], dict[second] };
+            }
+            else
+            {
+                return new int[2] { dict[second], dict[first] };
+            }
+        }
+
+
+        public static int missingNum()
+        {
+            int[] arr = new int[5] { 2, 6, 5, 1, 3 };
+            int n = arr.Length;
+
+            long expectedSum = (long)(n + 1) * (n + 2) / 2;
+            long actualSum = 0;
+
+            foreach (int num in arr)
+            {
+                actualSum += num;
+            }
+
+            return (int)(expectedSum - actualSum);
+        }
+
     }
 }
